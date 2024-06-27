@@ -28,10 +28,10 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-# Tutor
+# Ketikkan Di Termux
     packages install play-audio
 
-Jalankan `man play-audio` for usage instructions.
+Jalankan `man play-audio` Untuk Petunjuk Penggunaan.
 
 </p>
 <div height='45' align="center">
